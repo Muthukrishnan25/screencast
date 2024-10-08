@@ -11,7 +11,7 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'YOOM',
+  title: 'JMeet',
   description: 'Video calling App',
   icons: {
     icon: '/icons/logo.svg',
