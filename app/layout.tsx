@@ -25,7 +25,7 @@ export default function RootLayout({ children }: Readonly<{ children: ReactNode 
         appearance={{
           layout: {
             socialButtonsVariant: 'iconButton',
-            logoImageUrl: '/icons/yoom-logo.svg',
+            logoImageUrl: '/icons/Jmeet.png',
           },
           variables: {
             colorText: '#fff',
